@@ -5,7 +5,7 @@ This folder contains all visual outputs and evaluation results from the **Fake J
 
 ## Model Comparison
 
-![Comparison of All Three Models](Comparision_of_all_three_Model.png)
+![Comparison of All Three Models](Comparasion_of_all_three_Model.png)
 
 A side-by-side comparison of the three models evaluated in this project — showing performance metrics across Logistic Regression, Random Forest, and XGBoost.
 
